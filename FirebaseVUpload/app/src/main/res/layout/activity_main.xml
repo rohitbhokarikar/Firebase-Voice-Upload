@@ -1,0 +1,38 @@
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.rb.com.firebasevupload.MainActivity">
+
+    <Button
+        android:id="@+id/recordbtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Record Voice "
+
+        android:textAllCaps="false"
+        tools:layout_editor_absoluteX="139dp"
+        tools:layout_editor_absoluteY="332dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="210dp" />
+
+
+    <TextView
+        android:id="@+id/recordlabel"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+
+        android:layout_below="@+id/recordbtn"
+        android:gravity="center"
+        android:text="Tap Hold Record Voice Button"
+        android:textSize="20dp"
+        tools:layout_editor_absoluteX="139dp"
+        tools:layout_editor_absoluteY="104dp" />
+
+</RelativeLayout>

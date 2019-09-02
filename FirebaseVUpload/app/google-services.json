@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "221922430050",
+    "firebase_url": "https://audio-reccord.firebaseio.com",
+    "project_id": "audio-reccord",
+    "storage_bucket": "audio-reccord.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221922430050:android:749c6b3f52fbb7e4",
+        "android_client_info": {
+          "package_name": "com.rb.com.firebasevupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221922430050-h7kjhfg97nkgg6kjmpiqib5c2oa8es55.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rb.com.firebasevupload",
+            "certificate_hash": "c8059bdafafaa350dea7614fc726821fb478716a"
+          }
+        },
+        {
+          "client_id": "221922430050-ajo9vaq4f1dgnc75t3k9j65npi5vhe8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChW5PmYJM1lgAPQUzqO5Pz767chixxSPs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221922430050-ajo9vaq4f1dgnc75t3k9j65npi5vhe8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
